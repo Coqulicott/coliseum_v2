@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\dimon\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\dimon\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ColiseumD2.133304914.00" t="ExcludeRecursive" />
-    <e p="C:\Users\dimon\Documents\C\version 8 - working - de Arthur\VERSION-8\ColiseumD2" t="IncludeRecursive">
+    <e p="C:\Users\33768\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\33768\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ColiseumD2.1432466613.00" t="ExcludeRecursive" />
+    <e p="C:\Users\33768\Documents\Git\Project\coliseum_v2\ColiseumD2" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Photon" t="Include">
@@ -158,6 +158,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="DropDownArena.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
           <e p="LancerLaPartie.cs" t="Include" />
           <e p="LobbyManager.cs" t="Include" />

@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/menu.unity
     guid: 0878131b64117bc478f6e482efecbd57
   - enabled: 1
-    path: Assets/Scenes/Jeu justoin.unity
+    path: Assets/Scenes/Arene 1.unity
     guid: a448b64af48dce946a34aa870cf93594
+  - enabled: 1
+    path: Assets/Scenes/Arene 2.unity
+    guid: afcffbeaa24ec774c9883a7008935220
   m_configObjects: {}

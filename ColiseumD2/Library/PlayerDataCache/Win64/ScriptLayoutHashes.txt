@@ -1,9 +1,10 @@
 Win64
 PlayerPath?
-C:/Users/dimon/Desktop/test8/Coliseum2.exe
+C:/Users/33768/Desktop/Build ajd/Coliseum2.exe
 SceneListBegin?
 Assets/Scenes/menu.unity
-Assets/Scenes/Jeu justoin.unity
+Assets/Scenes/Arene 1.unity
+Assets/Scenes/Arene 2.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.PunTeams
 ab039a385ef4459756519a3fe91dccc6 PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.SmoothSyncMovement
@@ -249,3 +250,4 @@ b5c3dbcb94925c8b595ad16a62b44788 Cinemachine.dll:Cinemachine.CinemachineBasicMul
 2792936179724025482dc04d68a47ca7 Cinemachine.dll:Cinemachine.CinemachineClearShot
 c8283c7732e3b6aa70d28f1fed4430ca PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.CountdownTimer
 6177a2f89b36d53e7c1656c459c26d1f Assembly-CSharp.dll:.ThirdPersonCamera
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.DropDownArena

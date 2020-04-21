@@ -16,7 +16,15 @@ namespace Coliseum
 
         public void PlayGame()
         {
-            SceneManager.LoadScene("Jeu justoin");
+            if (DropDownArena.arenaID ==0)
+            {
+                SceneManager.LoadScene("Arene 1");
+            }
+            
+            else
+            {
+                SceneManager.LoadScene("Arene 2");
+            }
         }
 
     }

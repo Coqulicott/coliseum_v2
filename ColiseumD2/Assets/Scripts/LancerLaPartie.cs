@@ -7,6 +7,11 @@ public class LancerLaPartie : MonoBehaviour
 {
     public void Lancer_La_Partie()
     {
-        PhotonNetwork.LoadLevel("Jeu justoin");
+        if (DropDownArena.arenaID == 0)
+            PhotonNetwork.LoadLevel("Arene 1");
+        else
+        {
+            PhotonNetwork.LoadLevel("Arene 2");
+        }
     }
 }

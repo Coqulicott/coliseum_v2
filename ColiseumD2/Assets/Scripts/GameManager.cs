@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public GameObject lance;
     public GameObject marteau;
     
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -27,7 +28,7 @@ public class GameManager : MonoBehaviourPunCallbacks
             weapon = lance;
         else if (LobbyManager.selectedWeapon == "3")
             weapon = double_lames;
-        Vector3 pos = new Vector3(10, 2, 10);
+        Vector3 pos = new Vector3(10, 2, 10); //spawn du joueur
         PhotonNetwork.Instantiate(weapon.name, pos, Quaternion.identity);
     }
 
