@@ -20,7 +20,6 @@
       <Path>Logs</Path>
       <Path>MonoBleedingEdge</Path>
       <Path>Photon</Path>
-      <Path>Temp</Path>
       <Path>obj</Path>
     </explicitExcludes>
   </component>
